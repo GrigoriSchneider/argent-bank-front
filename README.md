@@ -85,6 +85,7 @@ And for the API model that you will be proposing for transactitons, the wirefram
 ## Front-end
 
 clone the repository of ArgentBank:
+
 `git clone https://github.com/GrigoriSchneider/argent-bank-front`
 
 Inside this front-end repository, install dependencies:
@@ -94,7 +95,7 @@ Launch front-end on port 3001:
 `npm start`
 
 Runs the app in the development mode.  
-Open [http://localhost:3000](http://localhost:3000/) to view it in your browser.
+Open [http://localhost:3000] (http://localhost:3000/) to view it in your browser.
 
 The page will reload when you make changes.  
 You may also see any lint errors in the console.
