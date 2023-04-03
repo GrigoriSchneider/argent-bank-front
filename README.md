@@ -85,7 +85,7 @@ And for the API model that you will be proposing for transactitons, the wirefram
 ## Front-end
 
 clone the repository of ArgentBank:
-`git clone https://github.com/GrigoriSchneider/argent-bank`
+`git clone https://github.com/GrigoriSchneider/argent-bank-front`
 
 Inside this front-end repository, install dependencies:
 `npm install`
